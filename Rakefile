@@ -12,6 +12,5 @@ desc 'outputs hola to the terminal'
 end
 
 task :console => :environment do
-
 end
 
